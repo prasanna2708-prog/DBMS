@@ -1,6 +1,0 @@
-{
-  "name": "Aduppadi — Smart Tamil Nadu Recipe Finder",
-  "description": "Data-structures-powered Tamil Nadu recipe finder that matches pantry ingredients using inverted hash indexing, Trie prefix search, and sorting algorithms to reduce food waste.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
